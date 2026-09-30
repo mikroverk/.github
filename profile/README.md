@@ -25,4 +25,5 @@ or pretends to be, very small machines.
 Every cycle counts. We care about efficiency, determinism and transparency:
 a simulator should show you what the real hardware hides.
 Everything here is open source, and contributions are welcome.
+Please read our [Code of Conduct](https://github.com/mikroverk/.github/blob/main/CODE_OF_CONDUCT.md).
 Open an issue, send a pull request, or just try the tools and tell us what broke.
