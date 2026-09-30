@@ -2,9 +2,9 @@
 
 **The microworks.** Open-source emulators, simulators, runtimes and tools for embedded systems.
 
-A *verk* is a Swedish works: a steelworks, a rolling mill, a place where things get made.
-Mikroverk is the same idea at a smaller scale: a workshop for software that runs on,
-or pretends to be, very small machines.
+In Swedish, *verk* can mean an industrial works—or a work of art, music or literature.
+Mikroverk brings those meanings together: a small workshop, and the things we make in it.
+Software that runs on, or pretends to be, very small machines.
 
 ## What we build
 
