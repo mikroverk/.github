@@ -18,7 +18,7 @@ Software that runs on, or pretends to be, very small machines.
 | Project | What it is |
 |---|---|
 | [esp32sim](https://github.com/mikroverk/esp32sim) | ESP32 simulator |
-| [cooja-ng](https://github.com/mikroverk/cooja-ng) | Next-generation network simulator for embedded and IoT systems |
+| [cooja-ng](https://github.com/mikroverk/cooja-ng) | Next-generation network simulator for embedded and IoT systems. Runs real, unmodified Contiki-NG firmware on emulated MSP430, ARM Cortex-M and RISC-V cores — hundreds of mixed nodes on one deterministic, nanosecond-precise clock, with a live web UI. Written in portable C, about ten times faster than Cooja + MSPSim, and passes the full Contiki-NG Cooja test suite. |
 
 ## How we work
 
