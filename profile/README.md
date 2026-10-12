@@ -1,6 +1,6 @@
 # Mikroverk
 
-**The microworks.** Open-source emulators, simulators, runtimes and tools for embedded systems.
+**The microworks.** Open-source software for embedded systems and small devices: emulators, simulators, runtimes and tools.
 
 In Swedish, *verk* can mean an industrial works (*stålverk*, a steel mill)—
 or the work of an artist: art, music or literature (*konstverk*, *mästerverk*).
@@ -13,6 +13,7 @@ Software that runs on, or pretends to be, very small machines.
   and see inside it: every register, every packet, every cycle.
 - **Network simulation** for low-power wireless and IoT, from a single node to thousands.
 - **Runtimes and tools** for devices where memory is counted in kilobytes and energy in microjoules.
+- **Embedded software** more broadly: firmware, drivers and libraries for small devices.
 
 ## Projects
 
